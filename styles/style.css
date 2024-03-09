@@ -58,6 +58,7 @@
       border-radius: 10px;
       margin-bottom: 10px;
     }
+
     #button{
       padding: 10px;
       border-radius: 10px;
@@ -70,5 +71,6 @@
       flex-direction: row;
       margin-left: 15px;
       gap: 10px;
+    
     }
-}
+  }
